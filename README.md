@@ -7,3 +7,6 @@ website-collections，software，coding
 
 ## dev
 - [Node.js](https://nodejs.org/en)
+
+## blog
+- [hexo](https://hexo.io/zh-cn/docs/)
